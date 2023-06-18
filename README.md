@@ -2,6 +2,18 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FDCB00&size=35&center=true&vCenter=true&width=1000&lines=Holaa;Como+estan+Todos;Ustedes+123;Welcome!)
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+</p>
+<!------------------------------------------------------------------------------------------------------------------------------------------->
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=engine-flutter-autoroll&show_icons=true&count_private=true&hide_border=true&title_color=FDCB00&icon_color=FDCB00&text_color=c9d1d9&bg_color=0d1117" alt="SmurfDev51 github stats" />
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engine-flutter-autoroll&layout=compact&hide_border=true&title_color=FDCB00&text_color=FDCB00&bg_color=0d1117" />
+</div>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------->
 # Titulo
 ***What is Lorem Ipsum?***
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -11,14 +23,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SmurfDev51&show_icons=true&count_private=true&hide_border=true&title_color=FDCB00&icon_color=FDCB00&text_color=c9d1d9&bg_color=0d1117" alt="SmurfDev51 github stats" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmurfDev51&layout=compact&hide_border=true&title_color=FDCB00&text_color=FDCB00&bg_color=0d1117" />
-</div>
-
-
-<!------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center">
     <br/><br/><a href="https://www.linkedin.com/in/👽" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
     <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
