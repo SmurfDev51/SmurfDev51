@@ -3,14 +3,14 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=SmurfDev51&theme=tokyonight_duo&hide_border=true"
 </p>
 <!------------------------------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=engine-flutter-autoroll&show_icons=true&count_private=true&hide_border=true&title_color=FDCB00&icon_color=FDCB00&text_color=c9d1d9&bg_color=0d1117" alt="SmurfDev51 github stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SmurfDev51&show_icons=true&count_private=true&hide_border=true&title_color=FDCB00&icon_color=FDCB00&text_color=c9d1d9&bg_color=0d1117" alt="SmurfDev51 github stats" />
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engine-flutter-autoroll&layout=compact&hide_border=true&title_color=FDCB00&text_color=FDCB00&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmurfDev51&layout=compact&hide_border=true&title_color=FDCB00&text_color=FDCB00&bg_color=0d1117" />
 </div>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------->
